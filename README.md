@@ -1,4 +1,4 @@
-# AgenticLLM-NLP
+# LLM-NLP
 
 # LLM-based Topic and Sentiment Analysis of Chinese Sentences
 
